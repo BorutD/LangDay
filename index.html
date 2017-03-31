@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src = "scripts/angular/angular.min.js"></script>
+        <script src = "scripts/angular/angular-route.min.js"></script>
+        <script src = "scripts/ngStorage.min.js"></script>
+        <script src = "scripts/moment.js"></script>
+        <script src = "scripts/script.js"></script>
+        <script src = "bootstrap/css/bootstrap.min.css"></script>
+        <script src = "scripts/jquery.min.js"></script>
+        <script src = "bootstrap/js/bootstrap.min.js"></script>
+
+        <!-- CSS -->
+        <link href="css/design.css" rel="stylesheet">
+    </head>
+<body>
+    <div class="container-fluid">
+        <div ng-app="mainApp" ng-controller="mainCtrl">
+            <!-- Menu -->
+            <nav ng-hide="$route.current.templateUrl == 'partials/intro.html' || $route.current.templateUrl == 'partials/awesome.html'" class="navbar navbar-default">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-controls="navbar">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="#/home">LangDay</a>
+                    </div>
+                    <div id="navbar" class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav">
+                            <li ng-class="{ active: isActive('/home')}"><a href="#/home">Home</a></li>
+                            <li ng-class="{ active: isActive('/wordDisplay')}"><a href="#/wordDisplay">Today's word</a></li>
+                            <li ng-class="{ active: isActive('/progress')}"><a href="#/progress">Progress</a></li>
+                            <li ng-class="{ active: isActive('/settings')}"><a href="#/settings">Settings</a></li>
+                            <li ng-class="{ active: isActive('/aboutUs')}"><a href="#/aboutUs">About us</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <!-- Body -->
+            <div ng-view></div>
+        </div>
+    </div>
+    
+    <!--<script src="scripts/jquery.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>-->
+</body>
+</html>

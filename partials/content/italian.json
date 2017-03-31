@@ -1,0 +1,1867 @@
+[
+	{
+		"id": "0",
+		"Word": "Lunedi",
+		"Date": "2016, 06, 13"
+	},
+	{
+		"id": "1",
+		"Word": "Martedi",
+		"Date": "2016, 06, 14"
+	},
+	{
+		"id": "2",
+		"Word": "Mercoledi",
+		"Date": "2016, 06, 15"
+	},
+	{
+		"id": "3",
+		"Word": "Giovedi",
+		"Date": "2016, 06, 16"
+	},
+	{
+		"id": "4",
+		"Word": "Venerdi",
+		"Date": "2016, 06, 17"
+	},
+	{
+		"id": "5",
+		"Word": "Sabato",
+		"Date": "2016, 06, 18"
+	},
+	{
+		"id": "6",
+		"Word": "Domenica",
+		"Date": "2016, 06, 19"
+	},
+	{
+		"id": "7",
+		"Word": "Tavolo",
+		"Date": "2016, 06, 20"
+	},
+	{
+		"id": "8",
+		"Word": "Foresta",
+		"Date": "2016, 06, 21"
+	},
+	{
+		"id": "9",
+		"Word": "Albero",
+		"Date": "2016, 06, 22"
+	},
+	{
+		"id": "10",
+		"Word": "Sedia",
+		"Date": "2016, 06, 23"
+	},
+	{
+		"id": "11",
+		"Word": "Sole",
+		"Date": "2016, 06, 24"
+	},
+	{
+		"id": "12",
+		"Word": "Orologio",
+		"Date": "2016, 06, 25"
+	},
+	{
+		"id": "13",
+		"Word": "Casa",
+		"Date": "2016, 06, 26"
+	},
+	{
+		"id": "14",
+		"Word": "Acqua",
+		"Date": "2016, 06, 27"
+	},
+	{
+		"id": "15",
+		"Word": "Computer",
+		"Date": "2016, 06, 28"
+	},
+	{
+		"id": "16",
+		"Word": "Cibo",
+		"Date": "2016, 06, 29"
+	},
+	{
+		"id": "17",
+		"Word": "Mela",
+		"Date": "2016, 06, 30"
+	},
+	{
+		"id": "18",
+		"Word": "Ciao",
+		"Date": "2016, 07, 01"
+	},
+	{
+		"id": "19",
+		"Word": "Arrivederci",
+		"Date": "2016, 07, 02"
+	},
+	{
+		"id": "20",
+		"Word": "Asciugamano",
+		"Date": "2016, 07, 03"
+	},
+	{
+		"id": "21",
+		"Word": "Luna",
+		"Date": "2016, 07, 04"
+	},
+	{
+		"id": "22",
+		"Word": "Giorno",
+		"Date": "2016, 07, 05"
+	},
+	{
+		"id": "23",
+		"Word": "Notte",
+		"Date": "2016, 07, 06"
+	},
+	{
+		"id": "24",
+		"Word": "Ieri",
+		"Date": "2016, 07, 07"
+	},
+	{
+		"id": "25",
+		"Word": "Domani",
+		"Date": "2016, 07, 08"
+	},
+	{
+		"id": "26",
+		"Word": "Calendario",
+		"Date": "2016, 07, 09"
+	},
+	{
+		"id": "27",
+		"Word": "Orologio da polso",
+		"Date": "2016, 07, 10"
+	},
+	{
+		"id": "28",
+		"Word": "Piscina",
+		"Date": "2016, 07, 11"
+	},
+	{
+		"id": "29",
+		"Word": "Spiaggia",
+		"Date": "2016, 07, 12"
+	},
+	{
+		"id": "30",
+		"Word": "Cena",
+		"Date": "2016, 07, 13"
+	},
+	{
+		"id": "31",
+		"Word": "Pranzo",
+		"Date": "2016, 07, 14"
+	},
+	{
+		"id": "32",
+		"Word": "Colazione",
+		"Date": "2016, 07, 15"
+	},
+	{
+		"id": "33",
+		"Word": "Giardion",
+		"Date": "2016, 07, 16"
+	},
+	{
+		"id": "34",
+		"Word": "Cane",
+		"Date": "2016, 07, 17"
+	},
+	{
+		"id": "35",
+		"Word": "Gatto",
+		"Date": "2016, 07, 18"
+	},
+	{
+		"id": "36",
+		"Word": "Auto",
+		"Date": "2016, 07, 19"
+	},
+	{
+		"id": "37",
+		"Word": "Treno",
+		"Date": "2016, 07, 20"
+	},
+	{
+		"id": "38",
+		"Word": "Autobus",
+		"Date": "2016, 07, 21"
+	},
+	{
+		"id": "39",
+		"Word": "Bicicletta",
+		"Date": "2016, 07, 22"
+	},
+	{
+		"id": "40",
+		"Word": "Barca",
+		"Date": "2016, 07, 23"
+	},
+	{
+		"id": "41",
+		"Word": "Piatto",
+		"Date": "2016, 07, 24"
+	},
+	{
+		"id": "42",
+		"Word": "Libro",
+		"Date": "2016, 07, 25"
+	},
+	{
+		"id": "43",
+		"Word": "Cielo",
+		"Date": "2016, 07, 26"
+	},
+	{
+		"id": "44",
+		"Word": "Leggero",
+		"Date": "2016, 07, 27"
+	},
+	{
+		"id": "45",
+		"Word": "Capelli",
+		"Date": "2016, 07, 28"
+	},
+	{
+		"id": "46",
+		"Word": "Gamba",
+		"Date": "2016, 07, 29"
+	},
+	{
+		"id": "47",
+		"Word": "Braccio",
+		"Date": "2016, 07, 30"
+	},
+	{
+		"id": "48",
+		"Word": "Occhio",
+		"Date": "2016, 07, 31"
+	},
+	{
+		"id": "49",
+		"Word": "Dito",
+		"Date": "2016, 08, 01"
+	},
+	{
+		"id": "50",
+		"Word": "Felpa",
+		"Date": "2016, 08, 02"
+	},
+	{
+		"id": "51",
+		"Word": "Pantaloni",
+		"Date": "2016, 08, 03"
+	},
+	{
+		"id": "52",
+		"Word": "Finestra",
+		"Date": "2016, 08, 04"
+	},
+	{
+		"id": "53",
+		"Word": "Pane",
+		"Date": "2016, 08, 05"
+	},
+	{
+		"id": "54",
+		"Word": "Succo",
+		"Date": "2016, 08, 06"
+	},
+	{
+		"id": "55",
+		"Word": "Fiume",
+		"Date": "2016, 08, 07"
+	},
+	{
+		"id": "56",
+		"Word": "Nazione",
+		"Date": "2016, 08, 08"
+	},
+	{
+		"id": "57",
+		"Word": "Parco",
+		"Date": "2016, 08, 09"
+	},
+	{
+		"id": "58",
+		"Word": "Alba",
+		"Date": "2016, 08, 10"
+	},
+	{
+		"id": "59",
+		"Word": "Sorriso",
+		"Date": "2016, 08, 11"
+	},
+	{
+		"id": "60",
+		"Word": "Calcio",
+		"Date": "2016, 08, 12"
+	},
+	{
+		"id": "61",
+		"Word": "Scuola",
+		"Date": "2016, 08, 13"
+	},
+	{
+		"id": "62",
+		"Word": "Cuffie",
+		"Date": "2016, 08, 14"
+	},
+	{
+		"id": "63",
+		"Word": "Tetto",
+		"Date": "2016, 08, 15"
+	},
+	{
+		"id": "64",
+		"Word": "Cucina",
+		"Date": "2016, 08, 16"
+	},
+	{
+		"id": "65",
+		"Word": "Bagno",
+		"Date": "2016, 08, 17"
+	},
+	{
+		"id": "66",
+		"Word": "Stazione ferrovaria",
+		"Date": "2016, 08, 18"
+	},
+	{
+		"id": "67",
+		"Word": "Giacca",
+		"Date": "2016, 08, 19"
+	},
+	{
+		"id": "68",
+		"Word": "Sapone",
+		"Date": "2016, 08, 20"
+	},
+	{
+		"id": "69",
+		"Word": "Shampoo",
+		"Date": "2016, 08, 21"
+	},
+	{
+		"id": "70",
+		"Word": "Specchio",
+		"Date": "2016, 08, 22"
+	},
+	{
+		"id": "71",
+		"Word": "Gabinetto",
+		"Date": "2016, 08, 23"
+	},
+	{
+		"id": "72",
+		"Word": "Stazione degli autobus",
+		"Date": "2016, 08, 24"
+	},
+	{
+		"id": "73",
+		"Word": "Chiaro di luna",
+		"Date": "2016, 08, 25"
+	},
+	{
+		"id": "74",
+		"Word": "Animale",
+		"Date": "2016, 08, 26"
+	},
+	{
+		"id": "75",
+		"Word": "La neve",
+		"Date": "2016, 08, 27"
+	},
+	{
+		"id": "76",
+		"Word": "Estato",
+		"Date": "2016, 08, 28"
+	},
+	{
+		"id": "77",
+		"Word": "Inverno",
+		"Date": "2016, 08, 29"
+	},
+	{
+		"id": "78",
+		"Word": "Autunno",
+		"Date": "2016, 08, 30"
+	},
+	{
+		"id": "79",
+		"Word": "Primavera",
+		"Date": "2016, 08, 31"
+	},
+	{
+		"id": "80",
+		"Word": "Uccello",
+		"Date": "2016, 09, 01"
+	},
+	{
+		"id": "81",
+		"Word": "Elefante",
+		"Date": "2016, 09, 02"
+	},
+	{
+		"id": "82",
+		"Word": "Musica",
+		"Date": "2016, 09, 03"
+	},
+	{
+		"id": "83",
+		"Word": "Armadio",
+		"Date": "2016, 09, 04"
+	},
+	{
+		"id": "84",
+		"Word": "Porta",
+		"Date": "2016, 09, 05"
+	},
+	{
+		"id": "85",
+		"Word": "Apartmento",
+		"Date": "2016, 09, 06"
+	},
+	{
+		"id": "86",
+		"Word": "Neogzio",
+		"Date": "2016, 09, 07"
+	},
+	{
+		"id": "87",
+		"Word": "Bere",
+		"Date": "2016, 09, 08"
+	},
+	{
+		"id": "88",
+		"Word": "Birra",
+		"Date": "2016, 09, 09"
+	},
+	{
+		"id": "89",
+		"Word": "Vino",
+		"Date": "2016, 09, 10"
+	},
+	{
+		"id": "90",
+		"Word": "Nube",
+		"Date": "2016, 09, 11"
+	},
+	{
+		"id": "91",
+		"Word": "Letto",
+		"Date": "2016, 09, 12"
+	},
+	{
+		"id": "92",
+		"Word": "Pesce",
+		"Date": "2016, 09, 13"
+	},
+	{
+		"id": "93",
+		"Word": "Fragola",
+		"Date": "2016, 09, 14"
+	},
+	{
+		"id": "94",
+		"Word": "Montagna",
+		"Date": "2016, 09, 15"
+	},
+	{
+		"id": "95",
+		"Word": "Rosso",
+		"Date": "2016, 09, 16"
+	},
+	{
+		"id": "96",
+		"Word": "Verde",
+		"Date": "2016, 09, 17"
+	},
+	{
+		"id": "97",
+		"Word": "Blu",
+		"Date": "2016, 09, 18"
+	},
+	{
+		"id": "98",
+		"Word": "Gialo",
+		"Date": "2016, 09, 19"
+	},
+	{
+		"id": "99",
+		"Word": "Nero",
+		"Date": "2016, 09, 20"
+	},
+	{
+		"id": "100",
+		"Word": "Bianca",
+		"Date": "2016, 09, 21"
+	},
+	{
+		"id": "101",
+		"Word": "Viola",
+		"Date": "2016, 09, 22"
+	},
+	{
+		"id": "102",
+		"Word": "Rosa",
+		"Date": "2016, 09, 23"
+	},
+	{
+		"id": "103",
+		"Word": "Arancia",
+		"Date": "2016, 09, 24"
+	},
+	{
+		"id": "104",
+		"Word": "Marrone",
+		"Date": "2016, 09, 25"
+	},
+	{
+		"id": "105",
+		"Word": "Grigio",
+		"Date": "2016, 09, 26"
+	},
+	{
+		"id": "106",
+		"Word": "Gennaio",
+		"Date": "2016, 09, 27"
+	},
+	{
+		"id": "107",
+		"Word": "Febbrario",
+		"Date": "2016, 09, 28"
+	},
+	{
+		"id": "108",
+		"Word": "Marzo",
+		"Date": "2016, 09, 29"
+	},
+	{
+		"id": "109",
+		"Word": "Aprile",
+		"Date": "2016, 09, 30"
+	},
+	{
+		"id": "110",
+		"Word": "Maggio",
+		"Date": "2016, 10, 01"
+	},
+	{
+		"id": "111",
+		"Word": "Giugno",
+		"Date": "2016, 10, 02"
+	},
+	{
+		"id": "112",
+		"Word": "Luglio",
+		"Date": "2016, 10, 03"
+	},
+	{
+		"id": "113",
+		"Word": "Agosto",
+		"Date": "2016, 10, 04"
+	},
+	{
+		"id": "114",
+		"Word": "Settembre",
+		"Date": "2016, 10, 05"
+	},
+	{
+		"id": "115",
+		"Word": "Ottobre",
+		"Date": "2016, 10, 06"
+	},
+	{
+		"id": "116",
+		"Word": "Novembre",
+		"Date": "2016, 10, 07"
+	},
+	{
+		"id": "117",
+		"Word": "Dicembre",
+		"Date": "2016, 10, 08"
+	},
+	{
+		"id": "118",
+		"Word": "Settimana",
+		"Date": "2016, 10, 09"
+	},
+	{
+		"id": "119",
+		"Word": "Fine settimana",
+		"Date": "2016, 10, 10"
+	},
+	{
+		"id": "120",
+		"Word": "Partito",
+		"Date": "2016, 10, 11"
+	},
+	{
+		"id": "121",
+		"Word": "Ospite",
+		"Date": "2016, 10, 12"
+	},
+	{
+		"id": "122",
+		"Word": "Scarpe",
+		"Date": "2016, 10, 13"
+	},
+	{
+		"id": "123",
+		"Word": "Nome",
+		"Date": "2016, 10, 14"
+	},
+	{
+		"id": "124",
+		"Word": "Camion",
+		"Date": "2016, 10, 15"
+	},
+	{
+		"id": "125",
+		"Word": "Giocattolo",
+		"Date": "2016, 10, 16"
+	},
+	{
+		"id": "126",
+		"Word": "Pallacanestro",
+		"Date": "2016, 10, 17"
+	},
+	{
+		"id": "127",
+		"Word": "Caffe",
+		"Date": "2016, 10, 18"
+	},
+	{
+		"id": "128",
+		"Word": "Te",
+		"Date": "2016, 10, 19"
+	},
+	{
+		"id": "129",
+		"Word": "Bottiglia",
+		"Date": "2016, 10, 20"
+	},
+	{
+		"id": "130",
+		"Word": "Lampada",
+		"Date": "2016, 10, 21"
+	},
+	{
+		"id": "131",
+		"Word": "Il percorso",
+		"Date": "2016, 10, 22"
+	},
+	{
+		"id": "132",
+		"Word": "Ristorante",
+		"Date": "2016, 10, 23"
+	},
+	{
+		"id": "133",
+		"Word": "Frigo",
+		"Date": "2016, 10, 24"
+	},
+	{
+		"id": "134",
+		"Word": "Fiore",
+		"Date": "2016, 10, 25"
+	},
+	{
+		"id": "135",
+		"Word": "Capo",
+		"Date": "2016, 10, 26"
+	},
+	{
+		"id": "136",
+		"Word": "Giornale",
+		"Date": "2016, 10, 27"
+	},
+	{
+		"id": "137",
+		"Word": "Merenda",
+		"Date": "2016, 10, 28"
+	},
+	{
+		"id": "138",
+		"Word": "Sandwich",
+		"Date": "2016, 10, 29"
+	},
+	{
+		"id": "139",
+		"Word": "Pomodoro",
+		"Date": "2016, 10, 30"
+	},
+	{
+		"id": "140",
+		"Word": "Patata",
+		"Date": "2016, 10, 31"
+	},
+	{
+		"id": "141",
+		"Word": "Insalata",
+		"Date": "2016, 11, 01"
+	},
+	{
+		"id": "142",
+		"Word": "Il garage",
+		"Date": "2016, 11, 02"
+	},
+	{
+		"id": "143",
+		"Word": "Pigiama",
+		"Date": "2016, 11, 03"
+	},
+	{
+		"id": "144",
+		"Word": "Tappeto",
+		"Date": "2016, 11, 04"
+	},
+	{
+		"id": "145",
+		"Word": "Pavimento",
+		"Date": "2016, 11, 05"
+	},
+	{
+		"id": "146",
+		"Word": "Il fumaiolo",
+		"Date": "2016, 11, 06"
+	},
+	{
+		"id": "147",
+		"Word": "Coltelo",
+		"Date": "2016, 11, 07"
+	},
+	{
+		"id": "148",
+		"Word": "Forchetta",
+		"Date": "2016, 11, 08"
+	},
+	{
+		"id": "149",
+		"Word": "Cucchaio",
+		"Date": "2016, 11, 09"
+	},
+	{
+		"id": "150",
+		"Word": "Immagine",
+		"Date": "2016, 11, 10"
+	},
+	{
+		"id": "151",
+		"Word": "Taccunio",
+		"Date": "2016, 11, 11"
+	},
+	{
+		"id": "152",
+		"Word": "Tenda",
+		"Date": "2016, 11, 12"
+	},
+	{
+		"id": "153",
+		"Word": "Fuoco",
+		"Date": "2016, 11, 13"
+	},
+	{
+		"id": "154",
+		"Word": "Viaggio",
+		"Date": "2016, 11, 14"
+	},
+	{
+		"id": "155",
+		"Word": "Carta geografica",
+		"Date": "2016, 11, 15"
+	},
+	{
+		"id": "156",
+		"Word": "Camicia",
+		"Date": "2016, 11, 16"
+	},
+	{
+		"id": "157",
+		"Word": "Cappello",
+		"Date": "2016, 11, 17"
+	},
+	{
+		"id": "158",
+		"Word": "Ombrello",
+		"Date": "2016, 11, 18"
+	},
+	{
+		"id": "159",
+		"Word": "Frutta",
+		"Date": "2016, 11, 19"
+	},
+	{
+		"id": "160",
+		"Word": "Pollo",
+		"Date": "2016, 11, 20"
+	},
+	{
+		"id": "161",
+		"Word": "Mucca",
+		"Date": "2016, 11, 21"
+	},
+	{
+		"id": "162",
+		"Word": "Scala",
+		"Date": "2016, 11, 22"
+	},
+	{
+		"id": "163",
+		"Word": "Vicino",
+		"Date": "2016, 11, 23"
+	},
+	{
+		"id": "164",
+		"Word": "Erba",
+		"Date": "2016, 11, 24"
+	},
+	{
+		"id": "165",
+		"Word": "Numeri",
+		"Date": "2016, 11, 25"
+	},
+	{
+		"id": "166",
+		"Word": "Uno",
+		"Date": "2016, 11, 26"
+	},
+	{
+		"id": "167",
+		"Word": "Due",
+		"Date": "2016, 11, 27"
+	},
+	{
+		"id": "168",
+		"Word": "Tre",
+		"Date": "2016, 11, 28"
+	},
+	{
+		"id": "169",
+		"Word": "Quattro",
+		"Date": "2016, 11, 29"
+	},
+	{
+		"id": "170",
+		"Word": "Cinque",
+		"Date": "2016, 11, 30"
+	},
+	{
+		"id": "171",
+		"Word": "Sei",
+		"Date": "2016, 12, 01"
+	},
+	{
+		"id": "172",
+		"Word": "Sette",
+		"Date": "2016, 12, 02"
+	},
+	{
+		"id": "173",
+		"Word": "Otto",
+		"Date": "2016, 12, 03"
+	},
+	{
+		"id": "174",
+		"Word": "Nove",
+		"Date": "2016, 12, 04"
+	},
+	{
+		"id": "175",
+		"Word": "Dieci",
+		"Date": "2016, 12, 05"
+	},
+	{
+		"id": "176",
+		"Word": "Undici",
+		"Date": "2016, 12, 06"
+	},
+	{
+		"id": "177",
+		"Word": "Dodici",
+		"Date": "2016, 12, 07"
+	},
+	{
+		"id": "178",
+		"Word": "Tredici",
+		"Date": "2016, 12, 08"
+	},
+	{
+		"id": "179",
+		"Word": "Quattordici",
+		"Date": "2016, 12, 09"
+	},
+	{
+		"id": "180",
+		"Word": "Quindici",
+		"Date": "2016, 12, 10"
+	},
+	{
+		"id": "181",
+		"Word": "Sedici",
+		"Date": "2016, 12, 11"
+	},
+	{
+		"id": "182",
+		"Word": "Diciasette",
+		"Date": "2016, 12, 12"
+	},
+	{
+		"id": "183",
+		"Word": "Diciotto",
+		"Date": "2016, 12, 13"
+	},
+	{
+		"id": "184",
+		"Word": "Diciannove",
+		"Date": "2016, 12, 14"
+	},
+	{
+		"id": "185",
+		"Word": "Venty",
+		"Date": "2016, 12, 15"
+	},
+	{
+		"id": "186",
+		"Word": "Centinaio",
+		"Date": "2016, 12, 16"
+	},
+	{
+		"id": "187",
+		"Word": "Mille",
+		"Date": "2016, 12, 17"
+	},
+	{
+		"id": "188",
+		"Word": "Milione",
+		"Date": "2016, 12, 18"
+	},
+	{
+		"id": "189",
+		"Word": "Cartone animato",
+		"Date": "2016, 12, 19"
+	},
+	{
+		"id": "190",
+		"Word": "Film",
+		"Date": "2016, 12, 20"
+	},
+	{
+		"id": "191",
+		"Word": "Cinema",
+		"Date": "2016, 12, 21"
+	},
+	{
+		"id": "192",
+		"Word": "Programma televisivo",
+		"Date": "2016, 12, 22"
+	},
+	{
+		"id": "193",
+		"Word": "Sciare",
+		"Date": "2016, 12, 23"
+	},
+	{
+		"id": "194",
+		"Word": "Jogging",
+		"Date": "2016, 12, 24"
+	},
+	{
+		"id": "195",
+		"Word": "Biblioteca",
+		"Date": "2016, 12, 25"
+	},
+	{
+		"id": "196",
+		"Word": "Danza",
+		"Date": "2016, 12, 26"
+	},
+	{
+		"id": "197",
+		"Word": "Canto",
+		"Date": "2016, 12, 27"
+	},
+	{
+		"id": "198",
+		"Word": "Applausi",
+		"Date": "2016, 12, 28"
+	},
+	{
+		"id": "199",
+		"Word": "Concerto",
+		"Date": "2016, 12, 29"
+	},
+	{
+		"id": "200",
+		"Word": "Allenarsi",
+		"Date": "2016, 12, 30"
+	},
+	{
+		"id": "201",
+		"Word": "Palestra",
+		"Date": "2016, 12, 31"
+	},
+	{
+		"id": "202",
+		"Word": "Anatra",
+		"Date": "2017, 01, 01"
+	},
+	{
+		"id": "203",
+		"Word": "Mare",
+		"Date": "2017, 01, 02"
+	},
+	{
+		"id": "204",
+		"Word": "Nuoto",
+		"Date": "2017, 01, 03"
+	},
+	{
+		"id": "205",
+		"Word": "Instruzione",
+		"Date": "2017, 01, 04"
+	},
+	{
+		"id": "206",
+		"Word": "Aula",
+		"Date": "2017, 01, 05"
+	},
+	{
+		"id": "207",
+		"Word": "Insegnante",
+		"Date": "2017, 01, 06"
+	},
+	{
+		"id": "208",
+		"Word": "Universita",
+		"Date": "2017, 01, 07"
+	},
+	{
+		"id": "209",
+		"Word": "Polsino",
+		"Date": "2017, 01, 08"
+	},
+	{
+		"id": "210",
+		"Word": "Hotel",
+		"Date": "2017, 01, 09"
+	},
+	{
+		"id": "211",
+		"Word": "Elettricita",
+		"Date": "2017, 01, 10"
+	},
+	{
+		"id": "212",
+		"Word": "Buongiorno",
+		"Date": "2017, 01, 11"
+	},
+	{
+		"id": "213",
+		"Word": "Escursioni",
+		"Date": "2017, 01, 12"
+	},
+	{
+		"id": "214",
+		"Word": "Chitarra",
+		"Date": "2017, 01, 13"
+	},
+	{
+		"id": "215",
+		"Word": "Batteria",
+		"Date": "2017, 01, 14"
+	},
+	{
+		"id": "216",
+		"Word": "Tempo",
+		"Date": "2017, 01, 15"
+	},
+	{
+		"id": "217",
+		"Word": "Anno",
+		"Date": "2017, 01, 16"
+	},
+	{
+		"id": "218",
+		"Word": "Mese",
+		"Date": "2017, 01, 17"
+	},
+	{
+		"id": "219",
+		"Word": "Stagione",
+		"Date": "2017, 01, 18"
+	},
+	{
+		"id": "220",
+		"Word": "Ufficio",
+		"Date": "2017, 01, 19"
+	},
+	{
+		"id": "221",
+		"Word": "Grotta",
+		"Date": "2017, 01, 20"
+	},
+	{
+		"id": "222",
+		"Word": "Seminterrato",
+		"Date": "2017, 01, 21"
+	},
+	{
+		"id": "223",
+		"Word": "Ascensore",
+		"Date": "2017, 01, 22"
+	},
+	{
+		"id": "224",
+		"Word": "Soggiorno",
+		"Date": "2017, 01, 23"
+	},
+	{
+		"id": "225",
+		"Word": "Cespuglio",
+		"Date": "2017, 01, 24"
+	},
+	{
+		"id": "226",
+		"Word": "Scimmia",
+		"Date": "2017, 01, 25"
+	},
+	{
+		"id": "227",
+		"Word": "Leone",
+		"Date": "2017, 01, 26"
+	},
+	{
+		"id": "228",
+		"Word": "Serpente",
+		"Date": "2017, 01, 27"
+	},
+	{
+		"id": "229",
+		"Word": "Topo",
+		"Date": "2017, 01, 28"
+	},
+	{
+		"id": "230",
+		"Word": "Banana",
+		"Date": "2017, 01, 29"
+	},
+	{
+		"id": "231",
+		"Word": "Pera",
+		"Date": "2017, 01, 30"
+	},
+	{
+		"id": "232",
+		"Word": "Ananas",
+		"Date": "2017, 01, 31"
+	},
+	{
+		"id": "233",
+		"Word": "Lampone",
+		"Date": "2017, 02, 01"
+	},
+	{
+		"id": "234",
+		"Word": "Segretario",
+		"Date": "2017, 02, 02"
+	},
+	{
+		"id": "235",
+		"Word": "Spazzatura",
+		"Date": "2017, 02, 03"
+	},
+	{
+		"id": "236",
+		"Word": "Citta",
+		"Date": "2017, 02, 04"
+	},
+	{
+		"id": "237",
+		"Word": "Villagio",
+		"Date": "2017, 02, 05"
+	},
+	{
+		"id": "238",
+		"Word": "Ciotola",
+		"Date": "2017, 02, 06"
+	},
+	{
+		"id": "239",
+		"Word": "Fabbrica",
+		"Date": "2017, 02, 07"
+	},
+	{
+		"id": "240",
+		"Word": "Cervello",
+		"Date": "2017, 02, 08"
+	},
+	{
+		"id": "241",
+		"Word": "Boccale",
+		"Date": "2017, 02, 09"
+	},
+	{
+		"id": "242",
+		"Word": "Telefono",
+		"Date": "2017, 02, 10"
+	},
+	{
+		"id": "243",
+		"Word": "Pacchetto",
+		"Date": "2017, 02, 11"
+	},
+	{
+		"id": "244",
+		"Word": "Portafoglio",
+		"Date": "2017, 02, 12"
+	},
+	{
+		"id": "245",
+		"Word": "I soldi",
+		"Date": "2017, 02, 13"
+	},
+	{
+		"id": "246",
+		"Word": "Tasca",
+		"Date": "2017, 02, 14"
+	},
+	{
+		"id": "247",
+		"Word": "Famiglia",
+		"Date": "2017, 02, 15"
+	},
+	{
+		"id": "248",
+		"Word": "Padre",
+		"Date": "2017, 02, 16"
+	},
+	{
+		"id": "249",
+		"Word": "Madre",
+		"Date": "2017, 02, 17"
+	},
+	{
+		"id": "250",
+		"Word": "Figlia",
+		"Date": "2017, 02, 18"
+	},
+	{
+		"id": "251",
+		"Word": "Figlia",
+		"Date": "2017, 02, 19"
+	},
+	{
+		"id": "252",
+		"Word": "Nonna",
+		"Date": "2017, 02, 20"
+	},
+	{
+		"id": "253",
+		"Word": "Nonno",
+		"Date": "2017, 02, 21"
+	},
+	{
+		"id": "254",
+		"Word": "Zio",
+		"Date": "2017, 02, 22"
+	},
+	{
+		"id": "255",
+		"Word": "Zia",
+		"Date": "2017, 02, 23"
+	},
+	{
+		"id": "256",
+		"Word": "Fratello",
+		"Date": "2017, 02, 24"
+	},
+	{
+		"id": "257",
+		"Word": "Sorella",
+		"Date": "2017, 02, 25"
+	},
+	{
+		"id": "258",
+		"Word": "Amico",
+		"Date": "2017, 02, 26"
+	},
+	{
+		"id": "259",
+		"Word": "Fidanzata",
+		"Date": "2017, 02, 27"
+	},
+	{
+		"id": "260",
+		"Word": "Fidanzato",
+		"Date": "2017, 02, 28"
+	},
+	{
+		"id": "261",
+		"Word": "Pariglia",
+		"Date": "2017, 03, 01"
+	},
+	{
+		"id": "262",
+		"Word": "Amore",
+		"Date": "2017, 03, 02"
+	},
+	{
+		"id": "263",
+		"Word": "Bicchieri",
+		"Date": "2017, 03, 03"
+	},
+	{
+		"id": "264",
+		"Word": "Costume de bagno",
+		"Date": "2017, 03, 04"
+	},
+	{
+		"id": "265",
+		"Word": "Negozio",
+		"Date": "2017, 03, 05"
+	},
+	{
+		"id": "266",
+		"Word": "Vasca de bagno",
+		"Date": "2017, 03, 06"
+	},
+	{
+		"id": "267",
+		"Word": "Divano",
+		"Date": "2017, 03, 07"
+	},
+	{
+		"id": "268",
+		"Word": "Caldo",
+		"Date": "2017, 03, 08"
+	},
+	{
+		"id": "269",
+		"Word": "Freddo",
+		"Date": "2017, 03, 09"
+	},
+	{
+		"id": "270",
+		"Word": "Bollente",
+		"Date": "2017, 03, 10"
+	},
+	{
+		"id": "271",
+		"Word": "Tempo",
+		"Date": "2017, 03, 11"
+	},
+	{
+		"id": "272",
+		"Word": "Tempesta",
+		"Date": "2017, 03, 12"
+	},
+	{
+		"id": "273",
+		"Word": "Felicita",
+		"Date": "2017, 03, 13"
+	},
+	{
+		"id": "274",
+		"Word": "Tristezza",
+		"Date": "2017, 03, 14"
+	},
+	{
+		"id": "275",
+		"Word": "Mensola",
+		"Date": "2017, 03, 15"
+	},
+	{
+		"id": "276",
+		"Word": "Roccia",
+		"Date": "2017, 03, 16"
+	},
+	{
+		"id": "277",
+		"Word": "Fontana",
+		"Date": "2017, 03, 17"
+	},
+	{
+		"id": "278",
+		"Word": "Ponte",
+		"Date": "2017, 03, 18"
+	},
+	{
+		"id": "279",
+		"Word": "Castello",
+		"Date": "2017, 03, 19"
+	},
+	{
+		"id": "280",
+		"Word": "Soldato",
+		"Date": "2017, 03, 20"
+	},
+	{
+		"id": "281",
+		"Word": "Lumaca",
+		"Date": "2017, 03, 21"
+	},
+	{
+		"id": "282",
+		"Word": "Brutto",
+		"Date": "2017, 03, 22"
+	},
+	{
+		"id": "283",
+		"Word": "Bellisimo",
+		"Date": "2017, 03, 23"
+	},
+	{
+		"id": "284",
+		"Word": "Gioco",
+		"Date": "2017, 03, 24"
+	},
+	{
+		"id": "285",
+		"Word": "Yogurt",
+		"Date": "2017, 03, 25"
+	},
+	{
+		"id": "286",
+		"Word": "Torta",
+		"Date": "2017, 03, 26"
+	},
+	{
+		"id": "287",
+		"Word": "Biscotto",
+		"Date": "2017, 03, 27"
+	},
+	{
+		"id": "288",
+		"Word": "Formaggio",
+		"Date": "2017, 03, 28"
+	},
+	{
+		"id": "289",
+		"Word": "La carne",
+		"Date": "2017, 03, 29"
+	},
+	{
+		"id": "290",
+		"Word": "Naso",
+		"Date": "2017, 03, 30"
+	},
+	{
+		"id": "291",
+		"Word": "Lingua",
+		"Date": "2017, 03, 31"
+	},
+	{
+		"id": "292",
+		"Word": "Zaino",
+		"Date": "2017, 04, 01"
+	},
+	{
+		"id": "293",
+		"Word": "Vacanza",
+		"Date": "2017, 04, 02"
+	},
+	{
+		"id": "294",
+		"Word": "Societa",
+		"Date": "2017, 04, 03"
+	},
+	{
+		"id": "295",
+		"Word": "Macchina fotografica",
+		"Date": "2017, 04, 04"
+	},
+	{
+		"id": "296",
+		"Word": "Torre",
+		"Date": "2017, 04, 05"
+	},
+	{
+		"id": "297",
+		"Word": "Sede",
+		"Date": "2017, 04, 06"
+	},
+	{
+		"id": "298",
+		"Word": "Tenda",
+		"Date": "2017, 04, 07"
+	},
+	{
+		"id": "299",
+		"Word": "Cuscino",
+		"Date": "2017, 04, 08"
+	},
+	{
+		"id": "300",
+		"Word": "Notizia",
+		"Date": "2017, 04, 09"
+	},
+	{
+		"id": "301",
+		"Word": "Girasole",
+		"Date": "2017, 04, 10"
+	},
+	{
+		"id": "302",
+		"Word": "Stella",
+		"Date": "2017, 04, 11"
+	},
+	{
+		"id": "303",
+		"Word": "Incontro",
+		"Date": "2017, 04, 12"
+	},
+	{
+		"id": "304",
+		"Word": "Latte",
+		"Date": "2017, 04, 13"
+	},
+	{
+		"id": "305",
+		"Word": "Strada",
+		"Date": "2017, 04, 14"
+	},
+	{
+		"id": "306",
+		"Word": "Legna",
+		"Date": "2017, 04, 15"
+	},
+	{
+		"id": "307",
+		"Word": "Plastica",
+		"Date": "2017, 04, 16"
+	},
+	{
+		"id": "308",
+		"Word": "Maiale",
+		"Date": "2017, 04, 17"
+	},
+	{
+		"id": "309",
+		"Word": "La minestra",
+		"Date": "2017, 04, 18"
+	},
+	{
+		"id": "310",
+		"Word": "Completo",
+		"Date": "2017, 04, 19"
+	},
+	{
+		"id": "311",
+		"Word": "Cravatta",
+		"Date": "2017, 04, 20"
+	},
+	{
+		"id": "312",
+		"Word": "Maglieta",
+		"Date": "2017, 04, 21"
+	},
+	{
+		"id": "313",
+		"Word": "Calzini",
+		"Date": "2017, 04, 22"
+	},
+	{
+		"id": "314",
+		"Word": "Pantofole",
+		"Date": "2017, 04, 23"
+	},
+	{
+		"id": "315",
+		"Word": "Matita",
+		"Date": "2017, 04, 24"
+	},
+	{
+		"id": "316",
+		"Word": "Disegno",
+		"Date": "2017, 04, 25"
+	},
+	{
+		"id": "317",
+		"Word": "Decorazione",
+		"Date": "2017, 04, 26"
+	},
+	{
+		"id": "318",
+		"Word": "Altezza",
+		"Date": "2017, 04, 27"
+	},
+	{
+		"id": "319",
+		"Word": "Eta",
+		"Date": "2017, 04, 28"
+	},
+	{
+		"id": "320",
+		"Word": "Bambino",
+		"Date": "2017, 04, 29"
+	},
+	{
+		"id": "321",
+		"Word": "Ghiacco",
+		"Date": "2017, 04, 30"
+	},
+	{
+		"id": "322",
+		"Word": "Cannucia",
+		"Date": "2017, 05, 01"
+	},
+	{
+		"id": "323",
+		"Word": "Limone",
+		"Date": "2017, 05, 02"
+	},
+	{
+		"id": "324",
+		"Word": "Un giorno",
+		"Date": "2017, 05, 03"
+	},
+	{
+		"id": "325",
+		"Word": "Gomito",
+		"Date": "2017, 05, 04"
+	},
+	{
+		"id": "326",
+		"Word": "Picnic",
+		"Date": "2017, 05, 05"
+	},
+	{
+		"id": "327",
+		"Word": "Pecora",
+		"Date": "2017, 05, 06"
+	},
+	{
+		"id": "328",
+		"Word": "Gelato",
+		"Date": "2017, 05, 07"
+	},
+	{
+		"id": "329",
+		"Word": "Prezzo",
+		"Date": "2017, 05, 08"
+	},
+	{
+		"id": "330",
+		"Word": "Bambino",
+		"Date": "2017, 05, 09"
+	},
+	{
+		"id": "331",
+		"Word": "Lago",
+		"Date": "2017, 05, 10"
+	},
+	{
+		"id": "332",
+		"Word": "Ragno",
+		"Date": "2017, 05, 11"
+	},
+	{
+		"id": "333",
+		"Word": "Parola",
+		"Date": "2017, 05, 12"
+	},
+	{
+		"id": "334",
+		"Word": "Carota",
+		"Date": "2017, 05, 13"
+	},
+	{
+		"id": "335",
+		"Word": "Cetriolio",
+		"Date": "2017, 05, 14"
+	},
+	{
+		"id": "336",
+		"Word": "Posta",
+		"Date": "2017, 05, 15"
+	},
+	{
+		"id": "337",
+		"Word": "Guancia",
+		"Date": "2017, 05, 16"
+	},
+	{
+		"id": "338",
+		"Word": "Cerchio",
+		"Date": "2017, 05, 17"
+	},
+	{
+		"id": "339",
+		"Word": "Quadrato",
+		"Date": "2017, 05, 18"
+	},
+	{
+		"id": "340",
+		"Word": "Triangolo",
+		"Date": "2017, 05, 19"
+	},
+	{
+		"id": "341",
+		"Word": "Dormire",
+		"Date": "2017, 05, 20"
+	},
+	{
+		"id": "342",
+		"Word": "Chiesa",
+		"Date": "2017, 05, 21"
+	},
+	{
+		"id": "343",
+		"Word": "Scatola",
+		"Date": "2017, 05, 22"
+	},
+	{
+		"id": "344",
+		"Word": "Vuoto",
+		"Date": "2017, 05, 23"
+	},
+	{
+		"id": "345",
+		"Word": "Pieno",
+		"Date": "2017, 05, 24"
+	},
+	{
+		"id": "346",
+		"Word": "Sabbia",
+		"Date": "2017, 05, 25"
+	},
+	{
+		"id": "347",
+		"Word": "Facile",
+		"Date": "2017, 05, 26"
+	},
+	{
+		"id": "348",
+		"Word": "Difficile",
+		"Date": "2017, 05, 27"
+	},
+	{
+		"id": "349",
+		"Word": "Difficile",
+		"Date": "2017, 05, 28"
+	},
+	{
+		"id": "350",
+		"Word": "Compiti a casa",
+		"Date": "2017, 05, 29"
+	},
+	{
+		"id": "351",
+		"Word": "Scienza",
+		"Date": "2017, 05, 30"
+	},
+	{
+		"id": "352",
+		"Word": "Arte",
+		"Date": "2017, 05, 31"
+	},
+	{
+		"id": "353",
+		"Word": "Volpe",
+		"Date": "2017, 06, 01"
+	},
+	{
+		"id": "354",
+		"Word": "Orso",
+		"Date": "2017, 06, 02"
+	},
+	{
+		"id": "355",
+		"Word": "Cioccolato",
+		"Date": "2017, 06, 03"
+	},
+	{
+		"id": "356",
+		"Word": "Ape",
+		"Date": "2017, 06, 04"
+	},
+	{
+		"id": "357",
+		"Word": "Aereo",
+		"Date": "2017, 06, 05"
+	},
+	{
+		"id": "358",
+		"Word": "Cavallo",
+		"Date": "2017, 06, 06"
+	},
+	{
+		"id": "359",
+		"Word": "Vero",
+		"Date": "2017, 06, 07"
+	},
+	{
+		"id": "360",
+		"Word": "Falso",
+		"Date": "2017, 06, 08"
+	},
+	{
+		"id": "361",
+		"Word": "Faccia",
+		"Date": "2017, 06, 09"
+	},
+	{
+		"id": "362",
+		"Word": "Rivista",
+		"Date": "2017, 06, 10"
+	},
+	{
+		"id": "363",
+		"Word": "Cartella",
+		"Date": "2017, 06, 11"
+	},
+	{
+		"id": "364",
+		"Word": "Aspirapolvere",
+		"Date": "2017, 06, 12"
+	},
+	{
+		"id": "365",
+		"Word": "Oro",
+		"Date": "2017, 06, 13"
+	},
+	{
+		"id": "366",
+		"Word": "Argento",
+		"Date": "2017, 06, 14"
+	},
+	{
+		"id": "367",
+		"Word": "Bronzo",
+		"Date": "2017, 06, 15"
+	},
+	{
+		"id": "368",
+		"Word": "Si/No",
+		"Date": "2017, 06, 16"
+	},
+	{
+		"id": "369",
+		"Word": "Drago",
+		"Date": "2017, 06, 17"
+	},
+	{
+		"id": "370",
+		"Word": "La verdure",
+		"Date": "2017, 06, 18"
+	},
+	{
+		"id": "371",
+		"Word": "Doccia",
+		"Date": "2017, 06, 19"
+	},
+	{
+		"id": "372",
+		"Word": "Medico",
+		"Date": "2017, 06, 20"
+	}
+]

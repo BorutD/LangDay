@@ -1,0 +1,66 @@
+<div>
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <script src="scripts/jquery.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    
+    <!-- Animate -->
+    <link href="css/animate.min.css" rel="stylesheet">
+
+    <link href="css/design.css" rel="stylesheet">
+
+    <!-- wordDisplay -->
+    <div class="container-fluid">
+        <div class="wordDisplay">
+            <!--<p>Word display</p>-->
+            <p>Today's word</p>
+            <div class="panel panel-body col-xs-12">
+                <div class="row wordContainer learnLang">
+                    <div class="col-xs-9 animated bounceIn">
+                        <div class="words learnPhrase">
+                            <h2 ng-repeat="data in learningData" ng-show="data.Date == now"><b>{{data.Word}}</b></h2>
+                        </div>
+                    </div>
+                    <div class="col-xs-3 flag">
+                        <div class="flagDiv">
+                            <img src={{learnPath}} class="image" style="margin: 0 auto;">
+                        </div>
+                    </div>
+                </div>
+                <div class="row wordContainer nativeLang">
+                    <div class="col-xs-3 flag">
+                        <div class="flagDiv">
+                            <img src={{englishPath}} class="image" style="margin: 0 auto;">
+                        </div>
+                    </div>
+                    <div class="col-xs-9 animated bounceIn">
+                        <div class="words knownPhrase">
+                            <h2 ng-repeat="data in englishData" ng-show="data.Date == now"><b>{{data.Word}}</b></h2>
+                        </div>
+                    </div>
+                </div>
+                <!-- Progress Modal -->
+                <div class="row">
+                    <div class="modal fade" id="progressModal" role="dialog">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    <h4 class="modal-title">Progress</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <p>Congratulations on the {{progress}} new words you learned.<br>Next goal: Increase learned words to {{progress + 10}}.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--<script src="scripts/jquery.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>-->
+</div>
