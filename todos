@@ -1,0 +1,12 @@
+Todos for LangDay:
+- Add an option to swipe left/right to switch between languages.
+- Show the pronounciation of the words.
+- Move texts to an external json file.
+- Add multilanguage support.
+- Add an option to check the history of read words.
+- Create different levels of dificulty of the words.
+- Add the words for the following languages:
+	- Portuguese
+	- Dutch
+	- Swedish
+	- Russian
