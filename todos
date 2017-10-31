@@ -5,9 +5,16 @@ Todos for LangDay:
 - Add multilanguage support.
 - Add an option to check the history of read words.
 - Create different levels of dificulty of the words.
-- Add the words for the following languages:
+- Add another level with just sentences.
+- Create lessons for the following languages:
 	- Portuguese
 	- Dutch
 	- Swedish
 	- Russian
-- Create 2 views, one for computer and one for the phone.
+- Create 3 views: one for computer, one for the tablet and one for the phone.
+
+
+Ideas:
+- Add an option to collect tokens (virtual coins). For every 5 consistently read words, the user would be awarded with 1 token.
+- With one token, the user could check words/sentences for one day ahead. After it, the token would be lost.
+- Add images/icons next to words for better understanding.
