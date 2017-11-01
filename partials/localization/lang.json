@@ -1,0 +1,48 @@
+{
+	"strings": {
+		"chooseLang": {
+			"chooseLang": "Choose a language",
+			"german": "German",
+			"spanish": "Spanish",
+			"french": "French",
+			"italian": "Italian"
+		},
+		"begin": {
+			"begin": "Let's begin, shall we?"
+		},
+		"aboutUs": {
+			"aboutUs": "About Us",
+			"text1": "LangDay is a mobile application for learning new languages.",
+			"text2": "Its purpose is to help you learn a language, by enriching your vocabulary. The way this is done, is simply by showing different words in a selected language, every day.",
+			"currentVersion": "Current version"
+		},
+		"wordDisplay": {
+			"progress": "Progress",
+			"text1": "Congratulations on the {{progress}} new words you learned.",
+			"text2": "Next goal: Increase learned words to {{progress + 10}}.",
+			"close": "Close"
+		},
+		"settings": {
+			"settings": "Settings",
+			"changeLang": "Change Language",
+			"changeNot": "Change Notifications"
+		},
+		"progress": {
+			"progress": "Your progress:",
+			"dayStreak": "{{progress}} day streak"
+		},
+		"home": {
+			"menu": "Menu",
+			"todaysWord": "Today's word",
+			"progress": "Progress",
+			"settings": "Settings",
+			"aboutUs": "About Us"
+		},
+		"chooseNot": {
+			"chooseNot": "Choose a type of notifications",
+			"lockScreen": "Lock screen",
+			"notifications": "Notifications",
+			"nothing": "Nothing"
+		}
+	}
+}
