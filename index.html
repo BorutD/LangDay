@@ -16,6 +16,7 @@
 <body>
     <div class="container-fluid">
         <div ng-app="mainApp" ng-controller="mainCtrl">
+
             <!-- Menu -->
             <nav ng-hide="$route.current.templateUrl == 'partials/intro.html' || $route.current.templateUrl == 'partials/awesome.html'" class="navbar navbar-default">
                 <div class="container-fluid">
@@ -38,13 +39,11 @@
                         </ul>
                     </div>
                 </div>
-            </nav>
+			</nav>
+			
             <!-- Body -->
             <div ng-view></div>
         </div>
     </div>
-    
-    <!--<script src="scripts/jquery.min.js"></script>
-    <script src="bootstrap/js/bootstrap.min.js"></script>-->
 </body>
 </html>
